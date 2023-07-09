@@ -4,7 +4,7 @@ import 'package:e_commerce/core/Confige/mytheme.dart';
 import 'package:e_commerce/core/Confige/routes.dart';
 import 'package:flutter/material.dart';
 
-import 'Features/Login/login.dart';
+import 'Features/Login/pages/login.dart';
 import 'Features/splash/splash_view.dart';
 
 final GlobalKey<NavigatorState> navigatorkey = GlobalKey<NavigatorState>();
